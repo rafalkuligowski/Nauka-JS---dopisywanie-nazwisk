@@ -1,0 +1,32 @@
+body {
+	background-color:#C0C0C0;
+	font-family: 'Roboto Condensed', sans-serif;
+    
+
+	
+}
+#container {
+	width:360px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#C0D9D9;
+	padding:10px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+input.text {
+	margin-bottom:10px;
+}
+.text {
+	width:270px;
+}
+.list {
+	list-style-type:none;
+	padding-left:0;
+	
+}
+li {
+	background-color:#6699ff;
+	margin-top:5px;
+	padding:4px;
+	
+}
