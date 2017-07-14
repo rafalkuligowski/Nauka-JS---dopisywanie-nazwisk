@@ -5,7 +5,6 @@ addBtn.addEventListener("click", function ()
 	var list = document.querySelector (".list");
 	var input = document.querySelector (".text");
 	li.innerHTML = input.value;
-	list.appendChild(li);
-	
+	list.appendChild(li);	
 },false )
 
